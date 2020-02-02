@@ -1,0 +1,4 @@
+Setting up Windows 10 VM
+
+To change NetAdapter click on VM, in the top left corner> Settings. Select Network Adapter and select Bridged
+To Tur off firewall: search firewall in windows search bar. Then select turn on or off firewall.
