@@ -1,0 +1,12 @@
+Small LAN with KALi 
+
+Booting into Kali 
+  Plug in USB
+  Go into BIOS>boot order> make USB first in boot order
+  Press F10 to save and load into bootable USB
+  Select Live Kali to load into OS
+ 
+Setting IP
+  Click the drop down in the top right corner
+  select Wired Connection>settings>Settings symbol>IPv4
+  Set IP
