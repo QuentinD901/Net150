@@ -1,0 +1,6 @@
+Exploring Broadcast Domains
+
+the following command can spoof a MAC
+macchanger -m <mac address> <network adapter>  
+
+example: macchanger -m 00:0f:0c:12:4F:EA eth0
