@@ -1,0 +1,15 @@
+ARP
+
+How to open an Admin Command Prompt
+  Search Powershell in windows search
+  Right click and select run as administrator 
+  
+ Ipconfig
+   list IP information such as Ipv4/6, default gatewall, subnet
+   ipconfig /all gives detailed information on all network adapter
+   
+Wireshark
+  Used to log network communication between Pc and network
+  can obtain MAC's fro pining IP
+  detailed description of communication 
+  can see broadcasts and what is being broadcast
