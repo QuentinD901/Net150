@@ -1,2 +1,2 @@
 To add a static route:
-ip route *NETWORK ID* *SUBNETMASK* *NETWORK ID*
+  ip route *NETWORK ID* *SUBNETMASK* *NETWORK ID*
