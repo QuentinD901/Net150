@@ -1,0 +1,14 @@
+RIP 
+  once in Config Terminal
+    Router rip
+    version 2
+    network *NETWORK ID*
+    network *NETWORK ID*
+    
+OSPF
+  Once in Config terminal
+    router ospf *PROCESS_ID*
+    network *NETWORK ID* *SUBNETMASK WILDCARD* area 0
+    network *NETWORK ID* *SUBNETMASK WILDCARD* area 0
+
+    
