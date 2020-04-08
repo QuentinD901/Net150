@@ -1,0 +1,3 @@
+Acess = 1 VLAN
+Trunk = 1+ VLANs - Used to Connect mulitple VLANS
+
