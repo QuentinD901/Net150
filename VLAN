@@ -1,3 +1,4 @@
 Acess = 1 VLAN
 Trunk = 1+ VLANs - Used to Connect mulitple VLANS
-
+switchport nonegotiate says: “Do not send or respond to DTP from this end. Disable all DTP on this port.”
+VLANS need a Router to communicate
